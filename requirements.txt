@@ -1,0 +1,3 @@
+json5==0.9.14
+kiutils==1.4.4
+pykle-serial @ git+https://github.com/hajimen/pykle_serial.git@46d66c095786619e7b85b55766e347adc7292197
