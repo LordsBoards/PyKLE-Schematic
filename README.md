@@ -14,6 +14,9 @@ pip install -r requirements.txt
 Place your KLE as keyboard-layout.json or specify w/ CLI args
 The current CLI commands are:
 
---kle - Path to KLE file
---switchlib - Path to switch library
---stabilizerlib - Path to stabilizer library
+--kle - Path to KLE file 
+
+--switchlib - Path to switch library 
+
+--stabilizerlib - Path to stabilizer library 
+
